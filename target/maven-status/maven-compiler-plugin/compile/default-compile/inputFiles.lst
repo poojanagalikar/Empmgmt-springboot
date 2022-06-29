@@ -1,0 +1,15 @@
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/service/EmployeeServiceImpl.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/controller/EmployeeController.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/dto/UserRegistrationDto.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/repository/EmployeeRepository.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/service/UserServiceImpl.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/model/Employee.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/controller/MainController.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/service/EmployeeService.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/config/SecurityConfiguration.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/EmployeeManagementWebappApplication.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/model/Role.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/service/UserService.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/repository/UserRepository.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/controller/UserRegistrationController.java
+/root/k8s/Employee-mgmt-kubernetes/src/main/java/net/javaguides/springboot/model/User.java
